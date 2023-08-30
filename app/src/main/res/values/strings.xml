@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SubmissionFundamentalAndi</string>
+
+    <string name="user_name_detail">User Name</string>
+    <string name="user_name">User Name</string>
+    <string name="followers_count">0</string>
+    <string name="followers">Followers</string>
+    <string name="following_count">0</string>
+    <string name="following">Following</string>
+    <string name="repos_count">0</string>
+    <string name="repos">Repository</string>
+
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+
+    <string name="data_not_found">Data not found</string>
+
+
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+
+
+    <string name="undo">Undo</string>
+    <string name="delete_success">Berhasil dihapus</string>
+    <string name="added_success">Berhasil ditambahkan</string>
+    <string name="data_favorite">Data Favorite</string>
+    <string name="favorite_none">Tidak ada data user favorite</string>
+
+    <string name="tema">Tema</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="dark_mode">Dark Mode</string>
+
+
+</resources>
